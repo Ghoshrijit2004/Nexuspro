@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354578353678",
+    "project_id": "nexuspro-366e4",
+    "storage_bucket": "nexuspro-366e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354578353678:android:d361ee3be38f8e650ab65f",
+        "android_client_info": {
+          "package_name": "com.example.nexuspro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnINEvmrlh6s3JD3kSGnlgwkJoNswrrAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
